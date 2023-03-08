@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ITicket.service.EventoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in ITicket.service.EventoServiceTest
+testSomeMethod  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at ITicket.service.EventoServiceTest.testSomeMethod(EventoServiceTest.java:42)
+

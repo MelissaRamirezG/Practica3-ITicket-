@@ -1,0 +1,10 @@
+ITicket\controller\EventoController.class
+ITicket\repository\EventoRepository.class
+ITicket\repository\ArtistaRepository.class
+ITicket\ITicketApplication.class
+ITicket\service\EventoService.class
+ITicket\entity\Artista.class
+ITicket\service\IEventoService.class
+ITicket\service\IArtistaService.class
+ITicket\entity\Evento.class
+ITicket\service\ArtistaService.class
